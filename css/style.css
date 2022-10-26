@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-color{
+    color: #ff4800;
+}
+.bg-color{
+    background-color: #ff4800;
+}
+.bg-color:hover{
+    background-color: #d93d00;
+}
+.my-nav-link{
+    font-weight: bold;
+}
+.my-nav-link:hover{
+    background-color: #ff4800;
+    color: white;
+}
+
+.banner-section{
+    background-image: url('../img/header.jpg');
+    height: 500px;
+}
+.card-top-padding{
+    padding-top: 85px;
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+.form-btn-color{
+    background-color: #1F1F2E;
+    color: white;
+    border: none;
+}
+.form-btn-color:hover{
+    background-color: black;
+    color: white;
+}
+.button{
+    border-bottom: #ff4800;
+}
+footer{
+    background-color: #1F1F2E;
+}
+.footer-social-link:hover{
+    color: #ff4800;
+    transition: .5s;
+}
